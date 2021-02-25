@@ -122,10 +122,7 @@ private fun AppBar(
         title = {
             Text(text = title)
         },
-        backgroundColor = MaterialTheme.colors.primarySurface,
-        actions = {
-            // navController?.popBackStack()
-        }
+        backgroundColor = MaterialTheme.colors.primarySurface
     )
 }
 
