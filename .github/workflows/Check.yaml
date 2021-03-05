@@ -3,7 +3,7 @@ name: Check
 on:
   push:
     branches:
-      - Week_#2_-_Countdown_timer
+      - main
 
 jobs:
   build:
