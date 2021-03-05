@@ -1,4 +1,4 @@
-# Put title of your app here
+# Simple Countdown timer
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
@@ -6,13 +6,13 @@
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
-Display a puppy image list and detail description.
+Really simple Jetpack Compos countdown timer.
 
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
-Really cute puppies.
+Really simple Jetpack Compose countdown timer. Using state and animation.
 
 
 ## :camera_flash: Screenshots
